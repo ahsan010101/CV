@@ -1,0 +1,16 @@
+.op {
+    color: blueviolet;
+    text-align: center;
+    text-align: justify;
+    opacity: 0.5;
+    word-spacing: 5px;
+    letter-spacing: 10px;
+    line-height: 100px;
+    text-shadow: 2px 1px 1px darkblue;
+    text-transform: uppercase;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    background: rgb(red, green, blue);
+    color: aliceblue;
+    
+}
